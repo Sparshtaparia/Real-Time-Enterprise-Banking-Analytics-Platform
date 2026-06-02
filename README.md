@@ -139,7 +139,7 @@ banking-modern-datastack/
 
 ---
 
-**Author**: *Jaya Chandra Kadiveti*  
-**LinkedIn**: [jayachandrakadiveti](https://www.linkedin.com/in/jayachandrakadiveti/)  
-**Contact**: [datawithjay1@gmail.com](mailto:datawithjay1@gmail.com)  
+**Author**: *Sparsh Taparia*  
+**LinkedIn**: [sparshtaparia](https://www.linkedin.com/in/sparsh-taparia-a187b6289)  
+**Contact**: [sparshtaparia@gmail.com](mailto:sparshtaparia@gmail.com)  
 
